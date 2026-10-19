@@ -1,0 +1,7 @@
+hello
+this is a test
+password = CNV123
+AKIA1234567890ABCDEF
+ghp_abcdefghijklmnopqrstuvwxyz1234567890
+eyJabc123.def456.ghi789
+-----BEGIN PRIVATE KEY-----

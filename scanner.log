@@ -1,0 +1,6 @@
+2026-10-17 01:17:04,675 - INFO - Scanning file: test_files\sample.txt
+2026-10-17 01:17:04,677 - WARNING - Possible secret found in test_files\sample.txt, line 3: Password
+2026-10-17 01:17:04,677 - WARNING - Possible secret found in test_files\sample.txt, line 4: AWS Access Key
+2026-10-17 01:17:04,677 - WARNING - Possible secret found in test_files\sample.txt, line 5: GitHub Token
+2026-10-17 01:17:04,678 - WARNING - Possible secret found in test_files\sample.txt, line 6: JWT Token
+2026-10-17 01:17:04,678 - WARNING - Possible secret found in test_files\sample.txt, line 7: Private Key
