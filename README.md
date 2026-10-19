@@ -43,3 +43,5 @@ To scan a directory:
 
 ```bash
 py secret_scanner.py test_files
+
+
